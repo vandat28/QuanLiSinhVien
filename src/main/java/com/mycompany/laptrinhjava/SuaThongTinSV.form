@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel7"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jTextField4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox7">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel11"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jButton3"/>
+      </Properties>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jLabel12" min="-2" pref="148" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                      <Component id="jLabel3" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jLabel5" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel4" alignment="0" min="-2" pref="37" max="-2" attributes="0"/>
+                                  <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="jLabel8" min="-2" pref="37" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jComboBox4" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                                      <Component id="jLabel9" min="-2" pref="37" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jComboBox5" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                                      <Component id="jLabel10" min="-2" pref="31" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jComboBox6" min="-2" pref="84" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="jComboBox2" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jComboBox3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jComboBox1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jTextField2" alignment="0" min="-2" pref="297" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="166" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="20" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel12" alignment="0" min="-2" pref="16" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox6" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="29" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="M&#xe3; s&#x1ed1; sinh vi&#xea;n:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="T&#xea;n sinh vi&#xea;n:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ng&#xe0;nh:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kh&#xf3;a:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gi&#x1edb;i t&#xed;nh:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ng&#xe0;y sinh:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="5">
+            <StringItem index="0" value="K44"/>
+            <StringItem index="1" value="K45"/>
+            <StringItem index="2" value="K46"/>
+            <StringItem index="3" value="K47"/>
+            <StringItem index="4" value="K48"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox1ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox2">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="Nam"/>
+            <StringItem index="1" value="N&#x1eef;"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox2ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox3">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="81">
+            <StringItem index="0" value="Gi&#xe1;o d&#x1ee5;c Ti&#x1ec3;u h&#x1ecd;c"/>
+            <StringItem index="1" value="Gi&#xe1;o d&#x1ee5;c C&#xf4;ng d&#xe2;n"/>
+            <StringItem index="2" value="Gi&#xe1;o d&#x1ee5;c Th&#x1ec3; ch&#x1ea5;t"/>
+            <StringItem index="3" value="S&#x1b0; ph&#x1ea1;m To&#xe1;n h&#x1ecd;c "/>
+            <StringItem index="4" value="S&#x1b0; ph&#x1ea1;m Tin h&#x1ecd;c "/>
+            <StringItem index="5" value="S&#x1b0; ph&#x1ea1;m V&#x1ead;t l&#xfd; "/>
+            <StringItem index="6" value="S&#x1b0; ph&#x1ea1;m H&#xf3;a h&#x1ecd;c"/>
+            <StringItem index="7" value="S&#x1b0; ph&#x1ea1;m Sinh h&#x1ecd;c"/>
+            <StringItem index="8" value="S&#x1b0; ph&#x1ea1;m Ng&#x1eef; v&#x103;n"/>
+            <StringItem index="9" value="S&#x1b0; ph&#x1ea1;m L&#x1ecb;ch s&#x1eed;"/>
+            <StringItem index="10" value="S&#x1b0; ph&#x1ea1;m &#x110;&#x1ecb;a l&#xfd;"/>
+            <StringItem index="11" value="S&#x1b0; ph&#x1ea1;m Ti&#x1ebf;ng Anh"/>
+            <StringItem index="12" value="S&#x1b0; ph&#x1ea1;m Ti&#x1ebf;ng Ph&#xe1;p"/>
+            <StringItem index="13" value="C&#xf4;ng ngh&#x1ec7; k&#x1ef9; thu&#x1ead;t h&#xf3;a h&#x1ecd;c"/>
+            <StringItem index="14" value="K&#x1ef9; thu&#x1ead;t v&#x1ead;t li&#x1ec7;u"/>
+            <StringItem index="15" value="Qu&#x1ea3;n l&#xfd; c&#xf4;ng nghi&#x1ec7;p"/>
+            <StringItem index="16" value="Logistics v&#xe0; Qu&#x1ea3;n l&#xfd; chu&#x1ed7;i cung &#x1ee9;ng"/>
+            <StringItem index="17" value="K&#x1ef9; thu&#x1ead;t c&#x1a1; &#x111;i&#x1ec7;n t&#x1eed;"/>
+            <StringItem index="18" value="K&#x1ef9; thu&#x1ead;t c&#x1a1; kh&#xed;"/>
+            <StringItem index="19" value="K&#x1ef9; thu&#x1ead;t &#x111;i&#x1ec1;u khi&#x1ec3;n v&#xe0; t&#x1ef1; &#x111;&#x1ed9;ng h&#xf3;a"/>
+            <StringItem index="20" value="K&#x1ef9; thu&#x1ead;t &#x111;i&#x1ec7;n t&#x1eed; - vi&#x1ec5;n th&#xf4;ng"/>
+            <StringItem index="21" value="K&#x1ef9; thu&#x1ead;t &#x111;i&#x1ec7;n"/>
+            <StringItem index="22" value="K&#x1ef9; thu&#x1ead;t c&#x1ea5;p tho&#xe1;t n&#x1b0;&#x1edb;c"/>
+            <StringItem index="23" value="K&#x1ef9; thu&#x1ead;t x&#xe2;y d&#x1ef1;ng"/>
+            <StringItem index="24" value="K&#x1ef9; thu&#x1ead;t x&#xe2;y d&#x1ef1;ng c&#xf4;ng tr&#xec;nh th&#x1ee7;y"/>
+            <StringItem index="25" value="K&#x1ef9; thu&#x1ead;t x&#xe2;y d&#x1ef1;ng c&#xf4;ng tr&#xec;nh giao"/>
+            <StringItem index="26" value="An to&#xe0;n th&#xf4;ng tin"/>
+            <StringItem index="27" value="Truy&#x1ec1;n th&#xf4;ng &#x111;a ph&#x1b0;&#x1a1;ng ti&#x1ec7;n"/>
+            <StringItem index="28" value="Khoa h&#x1ecd;c m&#xe1;y t&#xed;nh"/>
+            <StringItem index="29" value="K&#x1ef9; thu&#x1ead;t m&#xe1;y t&#xed;nh"/>
+            <StringItem index="30" value="M&#x1ea1;ng m&#xe1;y t&#xed;nh v&#xe0; truy&#x1ec1;n th&#xf4;ng d&#x1eef; li&#x1ec7;u"/>
+            <StringItem index="31" value="K&#x1ef9; thu&#x1ead;t ph&#x1ea7;n m&#x1ec1;m"/>
+            <StringItem index="32" value="H&#x1ec7; th&#x1ed1;ng th&#xf4;ng tin"/>
+            <StringItem index="33" value="C&#xf4;ng ngh&#x1ec7; th&#xf4;ng tin"/>
+            <StringItem index="34" value="K&#x1ebf; to&#xe1;n"/>
+            <StringItem index="35" value="Ki&#x1ec3;m to&#xe1;n"/>
+            <StringItem index="36" value="T&#xe0;i ch&#xed;nh-Ng&#xe2;n h&#xe0;ng"/>
+            <StringItem index="37" value="Qu&#x1ea3;n tr&#x1ecb; kinh doanh"/>
+            <StringItem index="38" value="Qu&#x1ea3;n tr&#x1ecb; d&#x1ecb;ch v&#x1ee5; du l&#x1ecb;ch v&#xe0; l&#x1eef; h&#xe0;nh"/>
+            <StringItem index="39" value="Marketing"/>
+            <StringItem index="40" value="Kinh doanh th&#x1b0;&#x1a1;ng m&#x1ea1;i"/>
+            <StringItem index="41" value="Kinh doanh qu&#x1ed1;c t&#x1ebf;"/>
+            <StringItem index="42" value="Kinh t&#x1ebf;"/>
+            <StringItem index="43" value="Kinh t&#x1ebf; n&#xf4;ng nghi&#x1ec7;p"/>
+            <StringItem index="44" value="Kinh t&#x1ebf; t&#xe0;i nguy&#xea;n thi&#xea;n nhi&#xea;n"/>
+            <StringItem index="45" value="Lu&#x1ead;t"/>
+            <StringItem index="46" value="C&#xf4;ng ngh&#x1ec7; th&#x1ef1;c ph&#x1ea9;m"/>
+            <StringItem index="47" value="C&#xf4;ng ngh&#x1ec7; ch&#x1ebf; bi&#x1ebf;n th&#x1ee7;y s&#x1ea3;n"/>
+            <StringItem index="48" value="C&#xf4;ng ngh&#x1ec7; sau thu ho&#x1ea1;ch"/>
+            <StringItem index="49" value="Ch&#x103;n nu&#xf4;i"/>
+            <StringItem index="50" value="Th&#xfa; y"/>
+            <StringItem index="51" value="Khoa h&#x1ecd;c c&#xe2;y tr&#x1ed3;ng"/>
+            <StringItem index="52" value="N&#xf4;ng h&#x1ecd;c"/>
+            <StringItem index="53" value="B&#x1ea3;o v&#x1ec7; th&#x1ef1;c v&#x1ead;t"/>
+            <StringItem index="54" value="Khoa h&#x1ecd;c m&#xf4;i tr&#x1b0;&#x1edd;ng"/>
+            <StringItem index="55" value="Qu&#x1ea3;n l&#xfd; t&#xe0;i nguy&#xea;n v&#xe0; m&#xf4;i tr&#x1b0;&#x1edd;ng"/>
+            <StringItem index="56" value="K&#x1ef9; thu&#x1ead;t m&#xf4;i tr&#x1b0;&#x1edd;ng"/>
+            <StringItem index="57" value="Qu&#x1ea3;n l&#xfd; &#x111;&#x1ea5;t &#x111;ai"/>
+            <StringItem index="58" value="C&#xf4;ng ngh&#x1ec7; rau hoa qu&#x1ea3; v&#xe0; c&#x1ea3;nh quan"/>
+            <StringItem index="59" value="Khoa h&#x1ecd;c &#x111;&#x1ea5;t (chuy&#xea;n ng&#xe0;nh Qu&#x1ea3;n l&#xfd; &#x111;&#x1ea5;t v&#xe0; c&#xf4;ng ngh&#x1ec7; ph&#xe2;n b&#xf3;n)"/>
+            <StringItem index="60" value="Nu&#xf4;i tr&#x1ed3;ng th&#x1ee7;y s&#x1ea3;n"/>
+            <StringItem index="61" value="B&#x1ec7;nh h&#x1ecd;c th&#x1ee7;y s&#x1ea3;n"/>
+            <StringItem index="62" value="Qu&#x1ea3;n l&#xfd; th&#x1ee7;y s&#x1ea3;n"/>
+            <StringItem index="63" value="Th&#x1ed1;ng k&#xea;"/>
+            <StringItem index="64" value="To&#xe1;n &#x1ee9;ng d&#x1ee5;ng"/>
+            <StringItem index="65" value="V&#x1ead;t l&#xfd; k&#x1ef9; thu&#x1ead;t"/>
+            <StringItem index="66" value="H&#xf3;a h&#x1ecd;c"/>
+            <StringItem index="67" value="H&#xf3;a d&#x1b0;&#x1ee3;c"/>
+            <StringItem index="68" value="Sinh h&#x1ecd;c"/>
+            <StringItem index="69" value="Sinh h&#x1ecd;c &#x1ee9;ng d&#x1ee5;ng"/>
+            <StringItem index="70" value="C&#xf4;ng ngh&#x1ec7; sinh h&#x1ecd;c"/>
+            <StringItem index="71" value="V&#x103;n h&#x1ecd;c"/>
+            <StringItem index="72" value="Vi&#x1ec7;t Nam h&#x1ecd;c (chuy&#xea;n ng&#xe0;nh H&#x1b0;&#x1edb;ng d&#x1eab;n vi&#xea;n du l&#x1ecb;ch)"/>
+            <StringItem index="73" value="Ng&#xf4;n ng&#x1eef; Anh"/>
+            <StringItem index="74" value="Ng&#xf4;n ng&#x1eef; ph&#xe1;p"/>
+            <StringItem index="75" value="Th&#xf4;ng tin - th&#x1b0; vi&#x1ec7;n"/>
+            <StringItem index="76" value="Tri&#x1ebf;t h&#x1ecd;c"/>
+            <StringItem index="77" value="Ch&#xed;nh tr&#x1ecb; h&#x1ecd;c"/>
+            <StringItem index="78" value="X&#x103; h&#x1ed9;i h&#x1ecd;c"/>
+            <StringItem index="79" value=" "/>
+            <StringItem index="80" value=" "/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox3ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox4">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="31">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+            <StringItem index="12" value="13"/>
+            <StringItem index="13" value="14"/>
+            <StringItem index="14" value="15"/>
+            <StringItem index="15" value="16"/>
+            <StringItem index="16" value="17"/>
+            <StringItem index="17" value="18"/>
+            <StringItem index="18" value="19"/>
+            <StringItem index="19" value="20"/>
+            <StringItem index="20" value="21"/>
+            <StringItem index="21" value="22"/>
+            <StringItem index="22" value="23"/>
+            <StringItem index="23" value="24"/>
+            <StringItem index="24" value="25"/>
+            <StringItem index="25" value="26"/>
+            <StringItem index="26" value="27"/>
+            <StringItem index="27" value="28"/>
+            <StringItem index="28" value="29"/>
+            <StringItem index="29" value="30"/>
+            <StringItem index="30" value="31"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox4ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox5">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="12">
+            <StringItem index="0" value="01"/>
+            <StringItem index="1" value="02"/>
+            <StringItem index="2" value="03"/>
+            <StringItem index="3" value="04"/>
+            <StringItem index="4" value="05"/>
+            <StringItem index="5" value="06"/>
+            <StringItem index="6" value="07"/>
+            <StringItem index="7" value="08"/>
+            <StringItem index="8" value="09"/>
+            <StringItem index="9" value="10"/>
+            <StringItem index="10" value="11"/>
+            <StringItem index="11" value="12"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox5ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox6">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="11">
+            <StringItem index="0" value="1997"/>
+            <StringItem index="1" value="1998"/>
+            <StringItem index="2" value="1999"/>
+            <StringItem index="3" value="2000"/>
+            <StringItem index="4" value="2001"/>
+            <StringItem index="5" value="2002"/>
+            <StringItem index="6" value="2003"/>
+            <StringItem index="7" value="2004"/>
+            <StringItem index="8" value="2005"/>
+            <StringItem index="9" value="2006"/>
+            <StringItem index="10" value="2007"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox6ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ng&#xe0;y:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Th&#xe1;ng:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N&#x103;m:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C&#x1ead;p nh&#x1ead;t"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="H&#x1ee7;y"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel12">
+    </Component>
+  </SubComponents>
+</Form>
